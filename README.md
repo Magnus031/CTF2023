@@ -1,5 +1,5 @@
 # CTF2023
-CTF2023
+A summer semester in Information Security  
 ## 5parts in CTF
 ### Misc
   1. misc lab1
